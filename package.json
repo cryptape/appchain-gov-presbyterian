@@ -1,0 +1,12 @@
+{
+  "name": "appchain-gov-presbyterian",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.0.0"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "solc": "0.4.24"
+  }
+}
